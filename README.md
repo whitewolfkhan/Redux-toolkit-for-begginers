@@ -2,6 +2,42 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
+This is a simple demo project using **Redux Toolkit** with **React**. It demonstrates how to structure a Redux-powered application with modern best practices.
+
+## 📁 Features
+
+- 🛠️ Modern Redux state management using Redux Toolkit
+- 🔄 Async thunks and slices
+- 🧩 Component-based structure
+- 🚀 React functional components with hooks
+- 📦 Built with Vite or CRA (depending on your setup)
+
+## 🧰 Technologies Used
+
+- React
+- Redux Toolkit
+- React-Redux
+- JavaScript (ES6+)
+- Node.js / npm
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/whitewolfkhan/redux-toolkit-for-begginers.git
+cd redux-toolkit-demo
+npm install
+npm start
+```
+
+src/
+├── app/                # Redux store configuration
+├── features/           # Redux slices and feature logic
+├── components/         # Reusable UI components
+├── App.js              # Main app component
+├── index.js            # App entry point
+
+
+
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
