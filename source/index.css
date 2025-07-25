@@ -1,0 +1,29 @@
+/* body{
+  background-color: black;
+  color: white;
+} */
+
+/* :root {
+  primary-color: rgb(21, 154, 216);
+  background-color: rgb(36, 31, 31);
+  text-color:rgb(226, 222, 222);
+  border-color: rgb(92, 69, 69);
+  error-color: rgb(151, 50, 50);
+}
+.dark-theme {
+  primary-color: blue;
+  background-color: white;
+  text-color:rgb(68, 63, 63);
+  border-color: white;
+  error-color: red;
+} */
+.light-theme {
+  background-color: white;
+  color: black
+}
+
+.dark-theme {
+  background-color: black;
+  color: white
+}
+
