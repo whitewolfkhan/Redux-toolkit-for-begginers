@@ -1,0 +1,28 @@
+# (Basic react application setup)
+----------------------
+
+1.npm create vite@latest
+2. ask Package namme:
+	rtk
+3. select framework:
+	React
+4.select variant:
+	TypeScript + SWC        (swc : speedy web controller: fast developer tools)
+
+
+5. npm i             (install all dependencies)
+6. npm run dev        (run our application)(its going to spin up our local developmet
+			environment for our application. http://localhost:5174/
+
+# setup ruduxtoolkit
+---------------------
+1. browse redux toolkit
+2. npm install @reduxjs/toolkit react-redux
+
+{
+	in postsSlices.ts
+		you need to run : npm i axios 
+}
+
+
+
